@@ -7,4 +7,4 @@ It allows users to add, edit, complete, and delete tasks while tracking overall 
 👉 [Click here to view the project](https://yo.github.io/TaskFlowTrack/)
 
 ## 📸 Preview
-![App Screenshot](Screenshot 2025-10-01 200931.png)
+![App Screenshot](Screenshot2025-10-01200931.png)
